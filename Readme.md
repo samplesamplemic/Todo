@@ -1,6 +1,4 @@
-## Todo App
-
-<h3 align="center">Todo app</h3>
+<h2 align="center">Todo app <sub>byMic</sub></h2>
 
 ## About The Project
 
