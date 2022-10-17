@@ -22,6 +22,13 @@
 
 ## Getting Started
 
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+-Configure & create database with PostgreSql
+<a src="https://www.youtube.com/watch?v=qw--VYLpxG4&t=4344s">&nbsp;&nbsp;Learning link: PostgreSql</a>
+
 ### Installation
 
 1. Clone the repo
@@ -32,20 +39,16 @@
    ```sh
    npm install
    ```
-3. Configure & create database with PostgreSql
-   ```sh
-   Learning link: [PostgreSql](#https://www.youtube.com/watch?v=qw--VYLpxG4&t=4344s)
-   ```
-4. Create .env file in /back-end folder, enter within it:
+3. Create .env file in /back-end folder, enter within it:
    ```sh
    PORT='NUMBER'
    DATABASE_URL="postgresql://author:password@localhost:5432/name_db?schema=public"
    ```
-5. Shell /back-end:
+4. Shell /back-end:
    ```js
     npm run dev
    ```
-6. Shell /todo:
+5. Shell /todo:
    ```js
     npm start
    ```
