@@ -34,7 +34,7 @@
    ```
 3. Configure & create database with PostgreSql
    ```sh
-   Learning link: [PostgreSql](https://www.youtube.com/watch?v=qw--VYLpxG4&t=4344s)
+   Learning link: [PostgreSql](#https://www.youtube.com/watch?v=qw--VYLpxG4&t=4344s)
    ```
 4. Create .env file in /back-end folder, enter within it:
    ```sh
