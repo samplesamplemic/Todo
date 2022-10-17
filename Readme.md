@@ -1,4 +1,4 @@
-<h2 align="center">Todo app <sub>byMic</sub></h2>
+<h2 align="center">Todo app</h2>
 
 ## About The Project
 
