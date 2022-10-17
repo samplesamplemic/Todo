@@ -32,16 +32,20 @@
    ```sh
    npm install
    ```
-3. Create .env file in /back-end folder, enter within it:
+3. Configure & create database with PostgreSql
+   ```sh
+   Learning link: https://www.youtube.com/watch?v=qw--VYLpxG4&t=4344s
+   ```
+4. Create .env file in /back-end folder, enter within it:
    ```sh
    PORT='NUMBER'
    DATABASE_URL="postgresql://author:password@localhost:5432/name_db?schema=public"
    ```
-4. Shell /back-end:
+5. Shell /back-end:
    ```js
     npm run dev
    ```
-5. Shell /todo:
+6. Shell /todo:
    ```js
     npm start
    ```
