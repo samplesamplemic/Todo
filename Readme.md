@@ -16,7 +16,7 @@
 - [![node][node.]][node-url]
 - [![prisma][prisma.]][prisma-url]
 - [![postgreSql][postgresql.]][postgresql-url]
-- [![tailwind][tailwind,]][tailwind-url]
+- [![tailwind][tailwind.]][tailwind-url]
 - [![sass][sass.]][sass-url]
 - [![figma][figma.]][figma-url]
 
@@ -63,15 +63,15 @@ Mic - [Linkedin](https://www.linkedin.com/in/michele-la-torre-a8990b235/) - mich
 [react.]: https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=61DAFB
 [figma-url]: https://www.figma.com/
 [figma.]: https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma&logoColor=ffffff
-[typescript]: https://www.typescriptlang.org/
+[typescript-url]: https://www.typescriptlang.org/
 [typescript.]: https://img.shields.io/badge/Typescript-333?style=for-the-badge&logo=typescript&logoColor=3178c6
-[node]: https://nodejs.org/it/
+[node-url]: https://nodejs.org/it/
 [node.]: https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js&logoColor=#43853d
-[prisma]: https://www.prisma.io/
+[prisma-url]: https://www.prisma.io/
 [prisma.]: https://img.shields.io/badge/Prisma-333?style=for-the-badge&logo=prisma&logoColor=3b82f6
-[postgresql]: https://www.postgresql.org/
+[postgresql-url]: https://www.postgresql.org/
 [postgresql.]: https://img.shields.io/badge/PostgreSql-333?style=for-the-badge&logo=postgresql&logoColor=336791
-[tailwind]: https://tailwindcss.com/
+[tailwind-url]: https://tailwindcss.com/
 [tailwind.]: https://img.shields.io/badge/Tailwindcss-333?style=for-the-badge&logo=tailwindcss&logoColor=6ec4d4
-[sass]: https://sass-lang.com/
+[sass-url]: https://sass-lang.com/
 [sass.]: https://img.shields.io/badge/Sass-333?style=for-the-badge&logo=sass&logoColor=#bf4080
