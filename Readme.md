@@ -24,10 +24,8 @@
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
--Configure & create database with PostgreSql
-<a src="https://www.youtube.com/watch?v=qw--VYLpxG4&t=4344s">&nbsp;&nbsp;Learning link: PostgreSql</a>
+- Configure & create database with PostgreSql<br>
+  <a href="https://www.youtube.com/watch?v=qw--VYLpxG4&t=4344s">&nbsp;&nbsp;Learning link: PostgreSql</a>
 
 ### Installation
 
