@@ -2,7 +2,7 @@
 
 ## About The Project
 
-![img](./assets/pres.png)
+![img](./assets/presentation.png)
 
  <p align="center">Todo app with basic CRUD operations.</p>
 
