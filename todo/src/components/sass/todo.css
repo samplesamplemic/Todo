@@ -11,12 +11,12 @@
 }
 
 .list {
-  height: 45rem !important;
+  height: calc(100vh - 10rem) !important;
   transition: height 1s ease-out;
 }
 
 .list-height {
-  height: 31rem !important;
+  height: calc(100vh - 24rem) !important;
   transition: height 1s ease-out;
 }
 
